@@ -15,12 +15,7 @@
         "description": "Versatile creator: Video editor, web developer, graphic designer. "
     },
     "AboutPage": {
-     "AboutParagraphs": [
-    "As a Video Editor at Content Beta, I specialize in transforming ideas into compelling visual experiences for marketing teams. Working with a diverse range of clients, from startups to Fortune 500 companies, I create high-quality video content that effectively showcases their brand, products, and services.",
-    "With a background in Information Technology, I possess a broad set of technical and creative skills that enable me to provide efficient and effective solutions. My expertise spans both front-end and back-end development, utilizing languages such as C++, CSS, HTML, and .NET. Additionally, I excel in web design, crafting visually stunning and user-friendly interfaces with tools like Bootstrap and JS. I also bring proficiency in video editing and graphic design, utilizing tools such as Adobe Premiere Pro and After Effects to produce engaging and polished content.",
-    "Passionate about staying current with industry trends, I continually seek opportunities to enhance my skills for delivering optimal results to my clients. Currently pursuing a Master of Science in Information Technology at CHAROTAR UNIVERSITY OF SCIENCE AND TECHNOLOGY, I am immersed in advanced concepts and techniques in web development, data science, and artificial intelligence. Complementing my academic pursuits, I actively engage in online courses and certifications, such as the After Effects CC Masters and the Creator Course by Instagram, to refine my video editing and graphic design skills.",
-    "My unique blend of technical prowess and creative abilities positions me as a valuable asset to any project or team. I thrive on the challenge of creating innovative and impactful video content that aligns with the needs and expectations of my clients. Committed to collaboration and effective communication, I work closely with colleagues and clients to ensure the delivery of high-quality work that aligns with our shared goals and vision."
-  ],
+    "AboutParagraph": "As a Video Editor at Content Beta, I leverage my diverse skill set to transform conceptual ideas into captivating visual experiences for a broad spectrum of clients, ranging from startups to Fortune 500 companies. With a background in Information Technology, my proficiency spans both front-end and back-end development, utilizing languages like C++, CSS, HTML, and .NET. In web design, I excel at crafting visually stunning and user-friendly interfaces using tools like Bootstrap and JS. Moreover, my expertise extends to video editing and graphic design, employing tools such as Adobe Premiere Pro and After Effects to produce polished and professional content. Currently pursuing a Master of Science in Information Technology at CHAROTAR UNIVERSITY OF SCIENCE AND TECHNOLOGY, I am dedicated to staying abreast of industry trends, continually enhancing my skills through online courses and certifications. My motivation lies in the challenge of creating innovative and impactful video content that aligns with clients' expectations, coupled with a commitment to collaborative communication within project teams.",
     "ImageLink": "https://media.licdn.com/dms/image/D4D03AQGwgOCaBmQL9Q/profile-displayphoto-shrink_800_800/0/1699626031136?e=1710979200&v=beta&t=37Bi9h509uMzsar58e0HmH5QTeJWm6Tv98D-jj832Es"
   },
     "Skills": [
@@ -52,7 +47,7 @@
         },
         {
             "title": "Short form content",
-            "ImageLink": "https://img.freepik.com/free-photo/lifestyle-content-creator-concept_23-2150405034.jpg?w=826&t=st=1705676925~exp=1705677525~hmac=31dff65e8052cfb55f7c51258674e8300d4787dc0944052bc9467fbcf089d871",
+            "ImageLink": "https://img.freepik.com/free-vector/antigravity-technology_52683-6034.jpg?w=740&t=st=1705679352~exp=1705679952~hmac=9065c9d05f88c5107030ba484dd329f37128f4ba366e77714174b94a84d65dd2",
             "Status": "Working On it",
             "ProjectName": "Short form content",
             "Technologies": [
