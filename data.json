@@ -10,7 +10,8 @@
             "Video Editor",
             "Graphic Designer",
             "Web Developer ",
-            ""
+            "Social-Media Manager"
+            
         ],
         "description": "Versatile creator: Video editor, web developer, graphic designer. "
     },
@@ -19,30 +20,29 @@
     "ImageLink": "https://media.licdn.com/dms/image/D4D03AQHuvJyEotg-pA/profile-displayphoto-shrink_400_400/0/1707321969748?e=1712793600&v=beta&t=_fmRWru2KEtD5QMUVPalcsz7I0CPdmIkQkivmZM2eQI"
   },
     "Skills": [
-        "Video editor",
-        "Social Media Analytics",
+        "Video Editing",
+        "Social Media Manager",
         " Motion graphics ",
-        " Project Management",
+        " Front-end Developer",
         " Content Management",
         " Social Media Management",
-        "Content Strategy",
+        "HTML/CSS",
         " After Effects",
-        "Adobe Creative Suite",
-        "Html/Css"
+        "JavaScript",
+        "PHP"
     ],
     "Projects": [
         {
-            "title": "Hunteredits blogspost ",
+            "title": "Hunteredits Blogs ",
             "ImageLink": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8vnaDaEXfBQnkgtVqzF0eY1o6bNnnv9mUHwyDpzenOEQXF0-SsRXHquJU8z5y8GqBuXwJ7W-KL2cv91gNhvUqKr5xdqHICzqqkDeHX4mBp5MU2e3mGO_X7Q4Y_x55dLIXBLNAtaZ2IyTZ8gaea0LSXiBjyfq005pM4QhC0LFVf0BTY2_YTxetBBW2/s500/HunterEdits%20(1).png",
             "Status": "Completed",
             "ProjectName": "Hunteredits blogspost ",
             "Technologies": [
                 "HTML/CSS",
-                " Blog post creation",
+                "Blog-post creation",
                 "Content design",
-                "Creative communication"
             ],
-            "Description": "Personal blog crafted with HTML and CSS, designed for my unique style and preferences. Explore my thoughts, experiences, and creations in a personalized online space",
+            "Description": " Created and maintain a blog website focused on sharing updates from my Instagram account, along with movie and series reviews and recommendations",
             "DemoLink": "https://huntereditstelegram.blogspot.com/"
         },
         {
@@ -73,6 +73,7 @@
     "Contact": {
         "Linkedin": "https://www.linkedin.com/in/smit-parekh-497b87231/",
         "Instagram": "https://www.instagram.com/hunteredits_2.0/",
-        "Youtube": "https://www.youtube.com/@Hunteredits84"
+        "Youtube": "https://www.youtube.com/@Hunteredits84",
+        "Git-Hub" : "https://github.com/SmitParekh84"
     }
 }
