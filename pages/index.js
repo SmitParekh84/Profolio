@@ -674,7 +674,7 @@ export default function Home({ publications }) {
                   so get in touch if you&apos;d like to work together.
                 </p>
                 <p className="text-lg">
-                  Email me at{" Smitparekh02@gmail.com "}
+                  Email me at{" "}
                   <Link
                     href={`mailto:${email}`}
                     className="underline-link text"
