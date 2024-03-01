@@ -674,14 +674,14 @@ export default function Home({ publications }) {
                   so get in touch if you&apos;d like to work together.
                 </p>
                 <p className="text-lg">
-                  Email me at{" "}
+                  Email me at{" Smitparekh02@gmail.com "}
                   <Link
                     href={`mailto:${email}`}
                     className="underline-link text"
                   >
                     {email}
                   </Link>
-                  {'  and let&apos;s talk about your project!'}
+                  {'  and let us talk about your project!'}
                 </p>
               </div>
             </div>
