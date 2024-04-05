@@ -10,12 +10,12 @@
             "Video Editor",
             "Graphic Designer",
             "Web Developer ",
-            "Social-Media Manager", 
+            "Social-Media Manager"
         ],
         "description": "Versatile creator: Video editor, Web developer, Graphic designer. "
     },
     "AboutPage": {
-    "AboutParagraph": "Hello, My name is Smit, I'm a Video editor and Front-end developer. I completed a 6-month internship as a video editor at Content Beta, where I used my diverse skill set to turn creative concepts into attracting visual experiences for a wide range of clients, including startups and Fortune 150+ companies. With a background in information technology, I am proficient in both front-end and back-end development, using languages such as CSS, HTML, Java, PHP,.NET, C#, and Dart. In web design, I excel at creating visually appealing and user-friendly interfaces with tools such as Bootstrap and JavaScript. In addition, my expertise includes video editing and graphic design, where I use tools like Adobe Premiere Pro and After Effects to create polished and professional content.Currently pursuing a Master of Science in Information Technology at CHAROTAR UNIVERSITY OF SCIENCE AND TECHNOLOGY, I am committed to staying current with industry trends and improving my skills through online courses and certifications. My motivation comes from the challenge of creating innovative and impactful video content that meets the expectations of clients, as well as a commitment to collaborative communication within project teams.",
+    "AboutParagraph": "Hello, My name is Smit, I'm a Video editor and Front-end developer. I completed a 6-month internship as a video editor at Content Beta, where I used my diverse skill set to turn creative concepts into attracting visual experiences for a wide range of clients, including startups and Fortune 150+ companies. With a background in information technology, I am proficient in both front-end and back-end development, using languages such as CSS, HTML, Java, PHP,.NET, C#, and Dart. In web design, I excel at creating visually appealing and user-friendly interfaces with tools such as Bootstrap and JavaScript. In addition, my expertise includes video editing and graphic design, where I use tools like Adobe Premiere Pro and After Effects to create polished and professional content.",
     "ImageLink": "https://media.licdn.com/dms/image/D4D03AQHuvJyEotg-pA/profile-displayphoto-shrink_400_400/0/1707321969748?e=1712793600&v=beta&t=_fmRWru2KEtD5QMUVPalcsz7I0CPdmIkQkivmZM2eQI"
   },
     "Skills": [
@@ -42,7 +42,7 @@
                 "Blog-post creation",
                 "Content design",
             ],
-            "Description": " Created and maintain a blog website focused on sharing updates from my Instagram account, along with movie and series reviews and recommendations",
+            "Description": "Created and maintain a blog website focused on sharing updates from my Instagram account, along with movie and series reviews and recommendations",
             "DemoLink": "https://huntereditstelegram.blogspot.com/"
         },
         {
@@ -51,7 +51,7 @@
             "Status": "Working On it",
             "ProjectName": "Short form content",
             "Technologies": [
-                "Tiktok-Instagram Reels Editing",
+                "Tiktok Instagram Reels Editing",
                 "Social Media Analytics",
                 "Video editing "
             ],
@@ -74,6 +74,6 @@
         "Linkedin": "https://www.linkedin.com/in/smit-parekh-497b87231/",
         "Instagram": "https://www.instagram.com/hunteredits_2.0/",
         "Youtube": "https://www.youtube.com/@Hunteredits84",
-        "Git-Hub" : "https://github.com/SmitParekh84"
+        "Git-Hub": "https://github.com/SmitParekh84",
     }
 }
